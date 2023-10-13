@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+## 👋 Hello there! I'm Manuel Blanco,
 
-👋 Hi, I'm Manuel! I'm a seasoned Front End Developer with a passion for creating user-friendly interfaces. My expertise includes:
+I'm a seasoned Front End Developer with a passion for creating user-friendly interfaces. My expertise includes:
 
 - **React Specialist**: 5+ years of experience in React, with a focus on creating seamless user experiences.
 - **TypeScript Enthusiast**: Proficient in TypeScript for robust and maintainable code.
