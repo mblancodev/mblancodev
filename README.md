@@ -23,8 +23,6 @@ I'm a seasoned Front End Developer with a passion for creating user-friendly int
 - **Docker Devotee**: Utilizing Docker to create scalable and maintainable applications.
 - **Zoho Customization**: Experienced in custom implementations with Zoho.
 - **ChatGPT Chatbots**: Crafting AI-driven chatbots for enhanced user interactions.
-- **Open Source Contributor**: Active contributor to open-source projects.
-- **CSS Aficionado**: Skilled in using CSS libraries like TailwindCSS, Bulma, and Bootstrap.
 - **UX/UI Consultant**: Collaborative work with companies to enhance user experiences.
 
 Let's connect and continue pushing the boundaries of web development!
