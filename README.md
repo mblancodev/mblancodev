@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a seasoned Front End Developer with a passion for creating user-friendly interfaces. My expertise includes:
 
-- **React Specialist**: 5+ years of experience in React, with a focus on creating seamless user experiences.
+- **React Specialist**: 6+ years of experience in React, with a focus on creating seamless user experiences.
 - **TypeScript Enthusiast**: Proficient in TypeScript for robust and maintainable code.
 - **Microfrontend Maven**: I employ microfrontend patterns for modular and scalable web apps.
 - **Webpack Wizard**: Mastery of advanced Webpack configurations for optimized performance.
